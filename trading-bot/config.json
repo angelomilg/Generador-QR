@@ -1,0 +1,12 @@
+{
+  "_ayuda": "Puedes dejar este archivo tal cual. 'modo' puede ser 'simulacion' (dinero ficticio) o 'real'. Lee LEEME.md antes de cambiar a real.",
+  "modo": "simulacion",
+  "exchange": "binance",
+  "par": "BTC/EUR",
+  "timeframe": "1h",
+  "capital_inicial": 100.0,
+  "stop_total_pct": 0.20,
+  "stop_diario_pct": 0.05,
+  "telegram_token": "",
+  "telegram_chat_id": ""
+}
